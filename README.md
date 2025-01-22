@@ -1,39 +1,17 @@
+# Hi there! 👋 I'm BonuKoo
 
-<div align=center><h1>📚 STACKS</h1></div>
+## 👨‍💻 About Me
+- 🌟 I am passionate about coding, creating meaningful projects.
+- 🎯 Focused on Backend Development with React
 
-<div align=center>
-language
-<hr>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<hr>
-Framework
-<hr>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<hr>
-database
-<hr>  
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<hr>
-frontend
-<hr>  
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<hr>
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-<hr>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<hr>
-etc
-<hr>
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+## 🛠️ Tech Stack
+- 💻 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+- ⚙️ **Tools & Frameworks:** ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- 🗄️ **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
+## 📈 GitHub Stats
+![BonuKoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonuKoo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BonuKoo&layout=compact&theme=radical)
 
-<!---
-BonuKoo/BonuKoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Find Me
+- 📫 **Email:** [bgu95856@gmail.com (mailto:bgu95856@gmail.com)
